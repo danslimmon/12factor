@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Dans l'ère moderne, le software prend souvent le forme d'une service: ça s'appelle une *application web*, ou *software-as-a-service* (SaaS). L'application à douze facteurs s'agit d'une méthodologie visant la construction d'applications SaaS qui:
+Dans l'ère moderne, le software prend souvent la forme d'une service: ça s'appelle une *application web*, ou *software-as-a-service* (SaaS). L'application à douze facteurs s'agit d'une méthodologie visant la construction d'applications SaaS qui:
 
 * Emploient des formats **déclaratifs** pour automatiser leur propre installation, afin de faciliter l'incorporation rapide de nouveaux ingénieurs;
 * Definissent un **contrat net** avec le système d'exploitation, ce qui offre un **maximum de portabilité** parmi les environnements d'éxécution;
