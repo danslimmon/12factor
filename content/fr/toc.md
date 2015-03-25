@@ -2,7 +2,7 @@ Les Douze Facteurs
 ==================
 
 ## [I. Base de code](./codebase)
-### Une seule codebase suivie dans un système de contrôle de révision
+### Une seule base de code suivie dans un système de contrôle de révision
 
 ## [II. Dépendances](./dependencies)
 ### Déclarer explicitement, et isoler, les dépendances
@@ -29,7 +29,7 @@ Les Douze Facteurs
 ### Maximiser la robustesse à l'aide de la mise en train rapide et l'arrêt élégant
 
 ## [X. Parité développement/production](./dev-prod-parity)
-### Veiller à ce que les environnements de développement, staging, et production restent aussi proche que possible
+### Veiller à ce que les environnements de développement, mise-en-scène, et production restent aussi proche que possible
 
 ## [XI. Fichiers Journaux](./logs)
 ### Traiter les fichiers journaux comme des flux d'événements
